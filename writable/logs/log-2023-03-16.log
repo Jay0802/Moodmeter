@@ -1,0 +1,6 @@
+CRITICAL - 2023-03-16 08:52:44 --> Cannot declare class Config\Filters, because the name is already in use
+in APPPATH\Config\Filters.php on line 27.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-16 08:55:58 --> Cannot declare class Config\Filters, because the name is already in use
+in APPPATH\Config\Filters.php on line 27.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
